@@ -2,6 +2,8 @@
 
 ## Overview
 
+As a new data analyst hire at PyBer, a ride sharing app company, we are performing an exploratory analysis on three city types: Urban, Suburban, and Rural. We are trying to use this data to help provide better access and affordability for riders in underserved areas.
+
 ## Results
 
 The results of the analysis are not surprising as it shows Urban having the highest number of rides and Rural having the lowest. At first glance, the Average Fare per Rider/Driver being higher in Rural areas seems unusual, but when taking into consideration how spread out the United States is outside of cities, it makes more sense. The distance between housing and businesses in Rural areas in the United States would explain why riders would end up paying more than city goers who have shorter distances to travel. 
