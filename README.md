@@ -23,3 +23,9 @@ While all of the city types appear to follow a general trend, there are environm
 
 
 ## Summary
+
+Based on the results, these are my three reccomendations for the CEO:
+
+1. Find a way to lower to cost of fares for Rural areas. People who live in Rural areas are more likely to be lower income, which is most likely why ride share is not used as much there as it is not an affordable option. 
+2. Do more research into why the patterns on the graph are emerging for each city type and plan driver avalibility and fare rates around that. For example, one reason why there could have been so many peaks and valleys for Urban in March could be that there were a lot of large concerts happening during that time. If the company knows these types of events are coming up, they can ensure more drivers will be available and possibly offer discounts or special deals to encourage visitors to use their service. The company could even go as far as to partner with the events to increase the chances of event goers using the ride share service. 
+3. There seems to be a general pattern all of the city types follow, with Suburban and Rural even mirroring each other for a short while. I believe it would be beneficial for the company to find out why that is. More research about the demogrpahics of the users and the reasoning behind the shared peaks between the lines could help the compnay create more effective marketing stratgeies that would lead to increase profits. 
